@@ -3,4 +3,4 @@
     android:label="@string/app_label"
     android:hint="@string/search_hint"
     android:voiceSearchMode="showVoiceSearchButton|launchRecognizer" >
-</searchable><!-- From: file:/Users/tarun.kota/Desktop/AppV2/app/src/main/res/xml/searchable.xml -->
+</searchable><!-- From: file:/home/bhargav/android-studio/workspace/FlipEasy/app/src/main/res/xml/searchable.xml -->
